@@ -1,0 +1,526 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.left-arrow {
+    color: white;
+    height: 30px;
+    width: 40px;
+    margin: 0px;
+}
+
+.logo {
+    margin: 0px;
+    color: white;
+    height: 60px;
+    width: 70px;
+}
+
+.fix-top {
+    background-color: grey;
+    padding: 10px;
+}
+
+.fix-heading {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 30px;
+    text-align: center;
+}
+
+.vr-footer-section-text {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.vr-footer-section {
+    background-color: #19232d;
+}
+
+.vr-footer-section-heading {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.vr-footer-section-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.vr-footer-section-icon-container {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 15px;
+    background-color: #202b36;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.about-me-section {
+    background-color: #323f4b;
+    height: 150vh;
+    background-size: cover;
+}
+
+.section-heading {
+    color: #ffffff;
+    font-size: 36px;
+    font-family: "Caveat";
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+.section-description {
+    color: #9aa5b1;
+    font-family: "Caveat";
+    font-size: 26px;
+    margin-top: 10px;
+}
+
+.section-bg-container {
+    background-color: #191a1d;
+    background-size: cover;
+    height: 100vh;
+}
+
+.image-part {
+    width: 200px;
+    height: 200px;
+    border-radius: 80px;
+    margin-bottom: 10px;
+}
+
+.section-heading {
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 600;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.section-heading-name {
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 600;
+    color: #4b6cc1;
+}
+
+.section-description {
+    font-family: "Roboto";
+    font-size: 27px;
+    color: #9aa5b1;
+    padding: 10px;
+}
+
+.custom-button {
+    background-color: #4b6cc1;
+    border-radius: 10px;
+    border-width: 0px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 28px;
+    font-family: "Caveat";
+    padding: 10px;
+}
+
+
+.bg-container {
+    background-color: white;
+    background-size: cover;
+    height: 100vh;
+}
+
+.home-page-image {
+    height: 500px;
+    width: 600px;
+    padding: 20px;
+    background-size: cover;
+}
+
+.home-page-heading {
+    font-family: "Bree Serif";
+    font-size: 30px;
+    color: #183b56;
+    padding: 20px;
+    text-align: center;
+}
+
+.home-page-description {
+    font-family: "Bree Serif";
+    color: #616e7c;
+    text-align: center;
+}
+
+.home-page-mini-images {
+    height: 180px;
+    width: 300px;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.bg-container-1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 90vh;
+    background-size: cover;
+}
+
+.order-card-1 {
+    background-color: #ffffff;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    padding: 26px;
+}
+
+.order-card-title-1 {
+    color: #5752ab;
+    font-family: "Bree Serif";
+    font-size: 30px;
+}
+
+.order-card-description-1 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.learn-more-button-1 {
+    color: #171f46;
+    background-color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    width: 126px;
+    height: 38px;
+    border-style: solid;
+    border-color: #d7dfe9;
+    border-width: 1px;
+    border-radius: 8px;
+    margin-right: 5px;
+}
+
+.bg-container-3 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/food-img.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.order-card-3 {
+    background-color: #f6c56e;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    padding: 24px;
+}
+
+.order-card-title-3 {
+    color: #323f4b;
+    font-family: "Bree Serif";
+    font-size: 30px;
+}
+
+.order-card-description {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.order-card-button-3 {
+    background-color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    width: 120px;
+    height: 38px;
+    border-width: 0px;
+    border-radius: 8px;
+}
+
+
+
+
+.back-button {
+    color: #ffffff;
+    background-color: #5752ab;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    width: 126px;
+    height: 38px;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-left: 5px;
+}
+
+
+.bg-container-4 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.card-4 {
+    background-color: #ffffff;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    padding: 10px;
+}
+
+.card-heading-4 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.card-description-4 {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.card-main-heading-4 {
+    color: #323f4b;
+    font-size: 25px;
+    font-family: "Roboto";
+}
+
+.button {
+    background-color: #323f4b;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 600;
+    height: 45px;
+    width: 129px;
+    border-radius: 8px;
+    border-width: 0px;
+}
+
+.diwali-top-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.diwali-top-section-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.diwali-bottom-section {
+    text-align: center;
+    background-color: #e6f6ff;
+    padding: 15px;
+}
+
+.diwali-card-item {
+    text-align: center;
+    background-color: white;
+    width: 140px;
+    border-radius: 9px;
+    padding: 16px;
+    margin: 15px;
+}
+
+.diwali-card-image {
+    height: 64px;
+    width: 64px;
+}
+
+.diwali-card-name {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.diwali-card-price {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.podcasts-home-page-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 30vh;
+    background-size: cover;
+}
+
+.podcasts-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 32px;
+    font-weight: 500;
+    padding: 20px;
+}
+
+.podcasts-cards-container {
+    padding: 15px;
+}
+
+.details-card {
+    margin: 10px;
+    text-align: center;
+}
+
+.podcast-image {
+    width: 144px;
+    height: 112px;
+    margin-top: 10px;
+}
+
+.podcast-name {
+    color: #151765;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.episodes-count {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.podcast-header {
+    background-color: #151765;
+    padding: 20px;
+    height: 170px;
+}
+
+.podcast-text-container {
+    padding: 10px;
+}
+
+.category {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.podcast-title {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.podcast-caption {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+}
+
+.podcast-episode-container {
+    margin: 10px;
+}
+
+.podcast-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.podcast-duration {
+    color: #151765;
+    font-family: "Roboto";
+    font-size: 10px;
+}
+
+.button-container {
+    margin: 20px;
+}
+
+.button {
+    color: #ffffff;
+    background-color: #141961;
+    font-family: "Roboto";
+    font-weight: 600;
+    font-size: 12px;
+    width: 75px;
+    height: 24px;
+    border-radius: 25px;
+    border-width: 0px;
+}
+
+.conference-image {
+    width: 100vw;
+}
+
+.conference-text-container {
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+}
+
+.conference-title {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 32px;
+
+}
+
+.conference-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+
+}
+
+.conference-details-title {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+    margin: 5px;
+    padding: 5px;
+}
+
+.conference-details-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.conference-stats-container {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.conference-stats-count {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.conference-stats-label {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
